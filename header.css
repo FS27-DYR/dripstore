@@ -73,16 +73,16 @@
     margin-left: 48px;;
 }
 
-#carrinho {
+.carrinho {
     margin-left: 91px;
 }
 
-#navegacao {
+.navegacao {
     margin-top: 38px;
     margin-left: 70px;
 }
 
-#navegacao a {
+.navegacao a {
     color:#474747;
     /* Text Small - Desktop */
     font-family: Inter;
@@ -95,7 +95,7 @@
     text-decoration: none;
 }
 
-#navegacao a:hover {
+.navegacao a:hover {
     color: #C92071;
     font-weight: bold;
     padding-bottom: 50px; 
