@@ -1,0 +1,19 @@
+@import url(styles/cards.css);
+
+
+:root {
+    --primary: #C92071;
+    --background: #fff;
+    --dark-gray: #1F1F1F;
+    --dark-gray-2: #474747;
+    --dark-gray-3: #666;
+    --white: #fff;
+    --background-yellow: #E7FF86;
+    --background-gray: #D8E3F2;
+    --font: 'Inter', sans-serif;
+}
+
+body {
+    background-color: var(--background);
+    font-family: var(--font);
+}
