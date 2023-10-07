@@ -1,9 +1,9 @@
-#cabecalho {
+.cabecalho {
     margin-top: 34px;
     text-align: center;
 }
 
-#nome {
+.nome {
     color: #C92071;
     font-family: Inter;
     font-size: 36.395px;
@@ -13,7 +13,7 @@
     letter-spacing: -0.364px;
 }
 
-#pesquisa {
+.pesquisa {
     width: 559px;
     height: 60px;
     border: none;
@@ -30,7 +30,7 @@
     
 }
 
-#pesquisa::placeholder {
+.pesquisa::placeholder {
     color:#666;
     font-family: Inter;
     font-size: 16px;
@@ -43,7 +43,7 @@
 }
 
 
-#botao {
+.botao {
     width: 114px;
     height: 40px;
     background-color: #C92071;
@@ -60,7 +60,7 @@
 
 }
 
-#cadastrar {
+.cadastrar {
     color: #474747;
     font-feature-settings: 'clig' off, 'liga' off;
     font-family: Inter;
