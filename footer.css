@@ -1,0 +1,84 @@
+footer.container {
+    width: 1440px;
+    height: 454px;
+    flex-shrink: 0;
+    background: var(--dark-gray, #1F1F1F);
+}
+
+.digital-store,
+.digital-store * {
+    box-sizing: border-box;
+}
+
+.digital-store {
+    color: var(--white, #ffffff);
+    text-align: left;
+    font: 600 36.4px 'Inter', sans-serif;
+    position: relative;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore,
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore * {
+    box-sizing: border-box;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore {
+    color: var(--white, #ffffff);
+    text-align: left;
+    font: 400 16px/26px 'Inter', sans-serif;
+    position: relative;
+    width: 307px;
+}
+
+
+
+.group,
+.group * {
+    box-sizing: border-box;
+}
+
+.group {
+    position: relative;
+    transform: translate(0px, -33px);
+    overflow: visible;
+}
+
+
+
+.h1 {
+    color: var(--white, #FFF);
+    font-family: Inter;
+    font-size: 36.395px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.364px;
+}
+
+.lorem {
+    width: 307px;
+}
+
+.informa-o,
+.informa-o * {
+    box-sizing: border-box;
+}
+
+.informa-o {
+    color: var(--white, #ffffff);
+    text-align: left;
+    font: 600 18px 'Inter', sans-serif;
+    position: relative;
+}
+
+
+
+.content {
+    color: var(--white, #FFF);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px;
+    /* 237.5% */
+}
